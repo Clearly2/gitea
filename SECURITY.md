@@ -1,4 +1,4 @@
-# Reporting security issues
+lol# Reporting security issues
 
 The Gitea maintainers take security seriously.  
 If you discover a security issue, please bring it to their attention right away!
